@@ -1,0 +1,29 @@
+.app-container{
+    display: flex;
+}
+.content{
+    width: 100%;
+}
+.sidebar{
+    min-height: 100vmax;
+}
+.appname{
+    margin-left: -20px;
+}
+.UI{
+    height: 30rem;
+    width: 30rem;
+}
+.card{
+    margin: 20px;
+}
+.reaction{
+    margin-top: 8px;
+}
+.tags{
+    margin-left: 5px;
+}
+.name{
+    color: brown;
+    
+}
